@@ -1,0 +1,56 @@
+
+table,
+      td
+      {
+        border: 1px solid black;
+      }
+      .table {
+        border-collapse: separate;
+        border-spacing: 15px;
+
+
+      }
+
+
+th {
+
+    border: 1px solid black;
+  }
+  .table {
+    border-collapse: separate;
+    border-spacing: 15px;
+    width: 1000px;
+
+
+  }
+
+
+
+
+body {
+
+  background-color: #47B5FF;
+}
+
+hr {
+
+border-style: none;
+border-top-style: dotted;
+border-color: red;
+border-width: 5px;
+width: 30px;
+}
+h1,h2,h3{
+color:white;
+}
+
+title {
+color:white;
+
+}
+
+.br-example{
+  height: 50px;
+  width: 50px;
+  background-color: : red;
+}
